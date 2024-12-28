@@ -1,4 +1,26 @@
 #LABYTINTTIPELI
+
+
+#OHJEET
+
+# Generoituu joka kerta uusi labaryntti
+# Pelaajalla on mahdollista nähdä rajattu alue labyrintista
+
+# Alueella on kerättäviä esineitä jotka näkyvät näytöllä
+# Näytöllä näkyy myös kuluva aika ja kerättävien esineiden määrä
+
+# Pelaajan tavoitteena on kerätä kaikki esineet
+# Peli päättyy kun kaikki esineet on kerätty
+
+# Maaliin päästyä kysytään haluaako pelata uudestaan vai lopettaa
+
+
+########################################################################
+
+
+
+
+#LABYTINTTIPELI
 import pygame
 import random
 import numpy as np
